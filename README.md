@@ -1,1 +1,1 @@
-# crawlinggoogle
+# 구글 사진 크롤링 코드입니다.
